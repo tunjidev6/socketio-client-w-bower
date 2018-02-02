@@ -1,0 +1,20 @@
+{
+  "name": "socketio-client-w-bower",
+  "description": "Realtime socket.io client library for Bower",
+  "main": "./dist/socket.io.js",
+  "authors": "tunjia@dev6.com>",
+  "license": "MIT",
+  "keywords": [
+    "realtime",
+    "socketio",
+    "io"
+  ],
+  "homepage": "https://github.com/tunjidev6/socketio-client-w-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

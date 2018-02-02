@@ -1,5 +1,6 @@
 {
-  "name": "socketio-client-w-bower",
+  "name": "socketio-client-v2.0.4",
+  "version": "2.0.4",
   "description": "Realtime socket.io client library for Bower",
   "main": "./dist/socket.io.js",
   "authors": "tunjia@dev6.com>",
@@ -12,6 +13,7 @@
   "homepage": "https://github.com/tunjidev6/socketio-client-w-bower",
   "ignore": [
     "**/.*",
+    ".bower.json",
     "node_modules",
     "bower_components",
     "test",
